@@ -1,0 +1,2 @@
+database:
+  database: yesod-mysql-example_test
